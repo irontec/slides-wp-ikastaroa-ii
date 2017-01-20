@@ -1,4 +1,4 @@
-### Widget eta menuak
+### *Widget* eta menuak
 #### Menuak
 
 - Edukiko ezberdinak ikusteko **esteka multzoak** dira.

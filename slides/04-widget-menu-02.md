@@ -1,4 +1,4 @@
-### Widget eta menuak
+### *Widget* eta menuak
 #### *Widget*ak
 
 - Informazioa erakusteko kutxak dira.
